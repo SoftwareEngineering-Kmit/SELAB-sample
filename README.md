@@ -8,7 +8,7 @@ This repository contains sample code, assignments, and resources for the Softwar
 
 ## Features
 
-- Sample project files and source code
+- Sample project files and source code what
 - Git workflow examples (branching, merging, pull requests)
 - Lab assignments and exercises
 - Documentation and notes
